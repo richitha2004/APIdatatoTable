@@ -1,0 +1,31 @@
+const students = [
+    {
+        id:101,
+        name:'Casey',
+        email:'casey101@gmail.com',
+        branch:'cse',
+        year:2
+    },
+    {
+        id:587,
+        name:'Thinoy',
+        email:'thinoy587@gmail.com',
+        branch:'civil',
+        year:3
+    },
+    {
+        id:234,
+        name:'RJ',
+        email:'rj234@gmail.com',
+        branch:'ece',
+        year:4
+    },
+    {
+        id:189,
+        name:'Eva',
+        email:'eva_chase@gmail.com',
+        branch:'ece',
+        year:2
+    }
+];
+module.exports=students;

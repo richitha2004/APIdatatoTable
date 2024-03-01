@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richitha2004/studentAPI"
+  },
+  "keywords": [
+    "stu",
+    "student"
+  ],
+  "bugs": {
+    "url": "https://github.com/richitha2004/studentsAPI/issues"
+  },
+  "homepage": "https://github.com/richitha2004/studentsAPI#readme",
+  "description": ""
+}
